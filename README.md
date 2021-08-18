@@ -8,7 +8,7 @@ You don 'tneed a Java JDK 7 or later to run the build. You can run the build lik
 
     ./gradlew 
 
-You can run the app with:
+You can run the app wih:
 
     ./gradlew npm_start
 gfgffs
